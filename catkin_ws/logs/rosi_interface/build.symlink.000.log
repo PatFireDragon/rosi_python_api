@@ -1,6 +1,4 @@
-Warning: Cannot symlink from /workspaces/rosi_python_api/catkin_ws/devel/.private/rosi_interface/lib/python2.7/dist-packages/rosi_callback_interface/__init__.py to existing file /workspaces/rosi_python_api/catkin_ws/devel/lib/python2.7/dist-packages/rosi_callback_interface/__init__.py
-Warning: Source hash: 8bd1e1a71677166bf484e22a7601ef89
-Warning: Dest hash: 1ddfdf7e8e11d046ab7d47c7deb9ccad
 Symlinking /workspaces/rosi_python_api/catkin_ws/devel/lib/pkgconfig/rosi_interface.pc
-Symlinking /workspaces/rosi_python_api/catkin_ws/devel/share/rosi_interface/cmake/rosi_interfaceConfig-version.cmake
+Symlinking /workspaces/rosi_python_api/catkin_ws/devel/lib/python2.7/dist-packages/rosi_callback_interface/__init__.py
 Symlinking /workspaces/rosi_python_api/catkin_ws/devel/share/rosi_interface/cmake/rosi_interfaceConfig.cmake
+Symlinking /workspaces/rosi_python_api/catkin_ws/devel/share/rosi_interface/cmake/rosi_interfaceConfig-version.cmake

@@ -1,1 +1,0 @@
-/workspaces/rosi_python_api/catkin_ws/devel/.private/sensor_test/lib/pkgconfig/sensor_test.pc

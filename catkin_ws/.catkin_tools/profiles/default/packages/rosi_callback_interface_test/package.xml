@@ -12,12 +12,12 @@
 
   <build_depend>rospy</build_depend>
   <build_depend>std_msgs</build_depend>
-  <build_depend>rosi_callback_interface</build_depend>
+  <build_depend>rosi_interface</build_depend>
   <build_depend>cv_bridge</build_depend>
 
   <exec_depend>rospy</exec_depend>
   <exec_depend>std_msgs</exec_depend>
-  <exec_depend>rosi_callback_interface</exec_depend>
+  <exec_depend>rosi_interface</exec_depend>
   <exec_depend>cv_bridge</exec_depend>
 
 </package>

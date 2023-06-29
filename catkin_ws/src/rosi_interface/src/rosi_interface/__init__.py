@@ -1,1 +1,2 @@
-from callback_interface import RosiCallbackInterface
+from rosi_interface import RosiInterface
+from data_topic import *

@@ -1,7 +1,0 @@
-set(rosi_callback_interface_SETUP_PY_SETUP_MODULE "distutils.core")
-set(rosi_callback_interface_SETUP_PY_VERSION "0.0.0")
-set(rosi_callback_interface_SETUP_PY_SCRIPTS "")
-set(rosi_callback_interface_SETUP_PY_PACKAGES "rosi_callback_interface")
-set(rosi_callback_interface_SETUP_PY_PACKAGE_DIRS "src/rosi_callback_interface")
-set(rosi_callback_interface_SETUP_PY_MODULES "")
-set(rosi_callback_interface_SETUP_PY_MODULE_DIRS "")

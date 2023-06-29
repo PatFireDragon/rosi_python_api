@@ -5,4 +5,4 @@ Description: Description of rosi_callback_interface_test
 Version: 0.0.0
 Cflags: 
 Libs: -L${prefix}/lib 
-Requires: rospy std_msgs rosi_callback_interface cv_bridge
+Requires: rospy std_msgs rosi_interface cv_bridge

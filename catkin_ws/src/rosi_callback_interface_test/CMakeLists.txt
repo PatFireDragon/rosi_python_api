@@ -4,7 +4,7 @@ project(rosi_callback_interface_test)
 find_package(catkin REQUIRED COMPONENTS
     rospy
     std_msgs
-    rosi_callback_interface
+    rosi_interface
     cv_bridge
 )
 
@@ -12,7 +12,7 @@ catkin_package(
     CATKIN_DEPENDS 
     rospy
     std_msgs
-    rosi_callback_interface
+    rosi_interface
     cv_bridge
 )
 

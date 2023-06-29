@@ -255,7 +255,7 @@ RT_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/librt.so
 SETUPTOOLS_DEB_LAYOUT:BOOL=ON
 
 //Name of the computer/site where compile is being run
-SITE:STRING=pop-os
+SITE:STRING=LabTef-PC21
 
 //LSB Distrib tag
 UBUNTU:BOOL=TRUE
@@ -337,7 +337,7 @@ gtest_hide_internal_symbols:BOOL=OFF
 gtest_main_LIB_DEPENDS:STATIC=general;-lpthread;general;gtest;
 
 //Path to a library.
-lib:FILEPATH=/opt/ros/melodic/lib/librosconsole_backend_interface.so
+lib:FILEPATH=/opt/ros/melodic/lib/librostime.so
 
 //The directory containing a CMake configuration file for message_runtime.
 message_runtime_DIR:PATH=/opt/ros/melodic/share/message_runtime/cmake

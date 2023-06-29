@@ -1,6 +1,0 @@
-rosi_callback_interface
-/workspaces/rosi_python_api/catkin_ws/devel/.private/rosi_callback_interface/cmake.lock /workspaces/rosi_python_api/catkin_ws/devel/./cmake.lock
-/workspaces/rosi_python_api/catkin_ws/devel/.private/rosi_callback_interface/lib/python2.7/dist-packages/rosi_callback_interface/__init__.py /workspaces/rosi_python_api/catkin_ws/devel/lib/python2.7/dist-packages/rosi_callback_interface/__init__.py
-/workspaces/rosi_python_api/catkin_ws/devel/.private/rosi_callback_interface/lib/pkgconfig/rosi_callback_interface.pc /workspaces/rosi_python_api/catkin_ws/devel/lib/pkgconfig/rosi_callback_interface.pc
-/workspaces/rosi_python_api/catkin_ws/devel/.private/rosi_callback_interface/share/rosi_callback_interface/cmake/rosi_callback_interfaceConfig-version.cmake /workspaces/rosi_python_api/catkin_ws/devel/share/rosi_callback_interface/cmake/rosi_callback_interfaceConfig-version.cmake
-/workspaces/rosi_python_api/catkin_ws/devel/.private/rosi_callback_interface/share/rosi_callback_interface/cmake/rosi_callback_interfaceConfig.cmake /workspaces/rosi_python_api/catkin_ws/devel/share/rosi_callback_interface/cmake/rosi_callback_interfaceConfig.cmake

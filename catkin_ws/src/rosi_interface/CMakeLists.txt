@@ -7,7 +7,6 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
   sensor_msgs
   geometry_msgs
-  cv_bridge
 )
 
 catkin_package(
@@ -17,7 +16,6 @@ catkin_package(
     std_msgs
     sensor_msgs
     geometry_msgs
-    cv_bridge
 )
 
 catkin_python_setup()

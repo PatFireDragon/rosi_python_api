@@ -255,7 +255,7 @@ RT_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/librt.so
 SETUPTOOLS_DEB_LAYOUT:BOOL=ON
 
 //Name of the computer/site where compile is being run
-SITE:STRING=pop-os
+SITE:STRING=LabTef-PC21
 
 //LSB Distrib tag
 UBUNTU:BOOL=TRUE
@@ -342,12 +342,6 @@ lib:FILEPATH=/opt/ros/melodic/lib/librosconsole_backend_interface.so
 //The directory containing a CMake configuration file for message_runtime.
 message_runtime_DIR:PATH=/opt/ros/melodic/share/message_runtime/cmake
 
-//The directory containing a CMake configuration file for opencv-python.
-opencv-python_DIR:PATH=opencv-python_DIR-NOTFOUND
-
-//The directory containing a CMake configuration file for opencv2.
-opencv2_DIR:PATH=opencv2_DIR-NOTFOUND
-
 //The directory containing a CMake configuration file for rosconsole.
 rosconsole_DIR:PATH=/opt/ros/melodic/share/rosconsole/cmake
 
@@ -357,14 +351,14 @@ roscpp_serialization_DIR:PATH=/opt/ros/melodic/share/roscpp_serialization/cmake
 //The directory containing a CMake configuration file for roscpp_traits.
 roscpp_traits_DIR:PATH=/opt/ros/melodic/share/roscpp_traits/cmake
 
-//The directory containing a CMake configuration file for rosi_callback_interface.
-rosi_callback_interface_DIR:PATH=/workspaces/rosi_python_api/catkin_ws/devel/share/rosi_callback_interface/cmake
-
 //Value Computed by CMake
 rosi_callback_interface_test_BINARY_DIR:STATIC=/workspaces/rosi_python_api/catkin_ws/build/rosi_callback_interface_test
 
 //Value Computed by CMake
 rosi_callback_interface_test_SOURCE_DIR:STATIC=/workspaces/rosi_python_api/catkin_ws/src/rosi_callback_interface_test
+
+//The directory containing a CMake configuration file for rosi_interface.
+rosi_interface_DIR:PATH=/workspaces/rosi_python_api/catkin_ws/devel/share/rosi_interface/cmake
 
 //The directory containing a CMake configuration file for rospy.
 rospy_DIR:PATH=/opt/ros/melodic/share/rospy/cmake

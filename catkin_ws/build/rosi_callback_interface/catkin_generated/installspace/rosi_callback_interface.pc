@@ -1,8 +1,0 @@
-prefix=/workspaces/rosi_python_api/catkin_ws/install
-
-Name: rosi_callback_interface
-Description: Description of rosi_callback_interface
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

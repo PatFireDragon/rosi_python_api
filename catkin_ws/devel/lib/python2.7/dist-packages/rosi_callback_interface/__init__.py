@@ -1,1 +1,1 @@
-/workspaces/rosi_python_api/catkin_ws/devel/.private/rosi_callback_interface/lib/python2.7/dist-packages/rosi_callback_interface/__init__.py
+/workspaces/rosi_python_api/catkin_ws/devel/.private/rosi_interface/lib/python2.7/dist-packages/rosi_callback_interface/__init__.py

@@ -1,1 +1,0 @@
-/workspaces/rosi_python_api/catkin_ws/devel/.private/rosi_callback_interface/lib/pkgconfig/rosi_callback_interface.pc
