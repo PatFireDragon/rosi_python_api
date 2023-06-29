@@ -1,0 +1,1 @@
+/workspaces/rosi_python_api/catkin_ws/devel/.private/rosi_interface/share/rosi_interface/cmake/rosi_interfaceConfig-version.cmake

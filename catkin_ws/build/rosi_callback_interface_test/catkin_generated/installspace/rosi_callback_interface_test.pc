@@ -1,0 +1,8 @@
+prefix=/workspaces/rosi_python_api/catkin_ws/install
+
+Name: rosi_callback_interface_test
+Description: Description of rosi_callback_interface_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs rosi_callback_interface cv_bridge

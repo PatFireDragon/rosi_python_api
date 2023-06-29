@@ -1,0 +1,1 @@
+/workspaces/rosi_python_api/catkin_ws/devel/.private/rosi_callback_interface_test/share/rosi_callback_interface_test/cmake/rosi_callback_interface_testConfig-version.cmake

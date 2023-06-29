@@ -1,0 +1,6 @@
+devel_space: /workspaces/rosi_python_api/catkin_ws/devel
+install: false
+install_space: /workspaces/rosi_python_api/catkin_ws/install
+profile: default
+source_space: /workspaces/rosi_python_api/catkin_ws/src
+workspace: /workspaces/rosi_python_api/catkin_ws

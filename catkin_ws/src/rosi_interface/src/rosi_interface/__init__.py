@@ -1,0 +1,1 @@
+from callback_interface import RosiCallbackInterface
